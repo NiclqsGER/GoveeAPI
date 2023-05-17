@@ -16,6 +16,15 @@ I will NOT upload this project to NPM, only here on GitHub.
 ## Author(s) & Contributor(s)
 (A) [@PzH-2000](https://github.com/PzH-2000)
 
+## Dependencies
+This project relies on the following dependency:
+
++ Axios: ^0.0.1
+```npm
+npm install axios
+```
+Make sure to include this dependency in your project before using the API.
+
 ## Example
 This is a very simple use case example for this mini API.
 
