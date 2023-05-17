@@ -14,7 +14,7 @@ I will NOT upload this project to NPM, only here on GitHub.
 + [Govee Developer API](https://govee-public.s3.amazonaws.com/developer-docs/GoveeDeveloperAPIReference.pdf)
 
 ## Author(s) & Contributor(s)
-(A) [@PzH-2000](https://github.com/PzH-2000)
+(A) [@NiclqsGER](https://github.com/NiclqsGER)
 
 ## Dependencies
 This project relies on the following dependency:
